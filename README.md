@@ -1,2 +1,2 @@
 # Calculator
-This is a badsic Caculator app.
+This is a basic Caculator app.
